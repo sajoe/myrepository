@@ -88,5 +88,3 @@ public class MySelf {
 		return "MySelf :\n age= " + age + "\n firstname= " + firstname + "\n surname = " + surname + "\n gender = " + gender + "\n attributes = "+ attributes+"\n goal = " + goal + "\n\n address : "+address+"";
 	}
 	}
-
-
